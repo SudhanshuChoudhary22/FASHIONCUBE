@@ -1,33 +1,9 @@
 # Fashion Cube-Ecommerce Application
 
-#General Info
+Fashion Cube is an advanced e-commerce platform leveraging modern web technologies for an enhanced shopping 
+experience. Specialized in front-end development, employing Bootstrap, React.js, Redux for dynamic user interfaces 
+and effective state management, Axios for optimized HTTP requests, and Sass for sophisticated styling. 
+
+# Technologies used
 
 front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
-
-[Live Demo](https://quintuslabs.github.io/fashion-cube)
-
-## This project is created using:
-
-- [x] Monorepo
-- [x] Lerna
-- [x] Design System
-- [x] Hooks
-- [x] Redux
-
-## Future Features
-
-- Home (List products)
-- Detail products
-- Product category
-- Recommended products
-- Cart
-- Login / Register
-
-# ScreenShot
-
-<img src="screen/screen1.png">
-<img src="screen/screen2.png">
-<img src="screen/screen3.png">
-<img src="screen/screen4.png">
-<img src="screen/screen5.png">
-<img src="screen/screen6.png">
